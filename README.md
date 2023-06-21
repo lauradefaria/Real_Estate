@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-lauradefaria-purple.svg)](https://github.com/lauradefaria)
 
 <h1 align="center">
-  <img src="https://github.com/lauradefaria/Real_Estate/blob/main/imgs/imobiliaria.jpg">
+  <img src="https://github.com/lauradefaria/Real_Estate/blob/main/imgs/Real_estate.jpg">
 </h1>
 
 
